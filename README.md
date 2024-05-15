@@ -4,7 +4,7 @@
 
 `iptables` es una herramienta esencial para la gestión de cortafuegos en sistemas Linux. Este script unificado muestra cómo ver las reglas actuales, bloquear todo el tráfico entrante, permitir conexiones SSH, bloquear una IP específica, permitir tráfico HTTP/HTTPS, y guardar/restaurar la configuración.
 
-## Script Unificado de iptables
+## Script ejemplo de iptables
 
 ```sh
 #!/bin/bash
