@@ -47,6 +47,7 @@ sudo iptables -L -v
 # sudo netfilter-persistent reload
 
 echo "Configuración de iptables completada."
+```
 
 # Explicación de los Scripts de iptables
 
